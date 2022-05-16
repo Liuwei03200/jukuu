@@ -35,7 +35,7 @@ import { createRouter, createWebHistory } from "vue-router";
 
 
 const router = createRouter({
-    history:createWebHistory('/jukuu/dist/'),
+    history:createWebHistory('/about/'),
     routes
 })
 
